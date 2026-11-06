@@ -35,7 +35,7 @@
     <img src="imagen3.jpg">
 
     <script>
-        // Configuración del tiempo en milisegundos (5000 ms = 5 segundos)
+        // Configuración del tiempo en milisegundos (5000 ms = 10 segundos)
         const TIEMPO_CAMBIO = 5000; 
 
         const imagenes = document.querySelectorAll('img');
