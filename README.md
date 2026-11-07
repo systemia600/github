@@ -32,7 +32,7 @@
     <!-- ⚠️ REEMPLAZA LOS NOMBRES DE AQUÍ ABAJO POR TUS IMÁGENES -->
     <img src="https://github.com/systemia600/index.html/blob/main/Grabaci%C3%B3n%202026-11-04%20173740.mp4" class="active">
     <img src="https://github.com/systemia600/index.html/blob/main/Screenshot_20211130-092900_Chrome%20(1).jpg?raw=true">
-    <img src="">
+    <img src="a778b3d4-a8ec-481b-94fd-f35da58bfbab.jpg">
 
     <script>
         // Configuración del tiempo en milisegundos (5000 ms = 10 segundos)
