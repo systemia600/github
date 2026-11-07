@@ -30,7 +30,7 @@
 <body>
 
     <!-- ⚠️ REEMPLAZA LOS NOMBRES DE AQUÍ ABAJO POR TUS IMÁGENES -->
-    <img src="imagen1.jpg" class="active">
+    <img src="https://github.com/systemia600/index.html/blob/main/Grabaci%C3%B3n%202026-11-04%20173740.mp4" class="active">
     <img src="imagen2.png">
     <img src="imagen3.jpg">
 
