@@ -30,7 +30,7 @@
 <body>
 
     <!-- ⚠️ REEMPLAZA LOS NOMBRES DE AQUÍ ABAJO POR TUS IMÁGENES -->
-    <img src="https://github.com/systemia600/index.html/blob/main/Screenshot_20211130-092900_Chrome%20(1).jpg?raw=true">
+    <img src="https://github.com/systemia600/Github/blob/main/Screenshot_20211130-092900_Chrome%20(1).jpg?raw=true">
     <img src="a778b3d4-a8ec-481b-94fd-f35da58bfbab.jpg">
 
     <script>
